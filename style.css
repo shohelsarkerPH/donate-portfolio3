@@ -1,0 +1,153 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.donate-add {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 10%;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.donate-button {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(227, 22, 132);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5%;
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 90px 100px;
+}
+
+.donate-area {
+    text-align: center;
+    margin: 10%;
+}
+
+.donate-today {
+    font-size: 30px;
+}
+
+.plan-rulse {
+    font-size: 40px;
+    width: 400;
+}
+
+.donate-amount {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+    padding: 50px;
+}
+
+.donate-tk {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 40px;
+    border-radius: 5%;
+    font-size: 30px;
+    margin: 5px 10px;
+}
+
+#single-tk {
+    border: 1px solid red;
+    font: 700;
+    color: red;
+    background-color: rgb(218, 209, 209);
+    margin: 5px 10px;
+}
+
+.flexibale-container {
+    display: flex;
+    margin: 10%;
+}
+
+.donate-plan {
+    text-align: center;
+    font-size: 30px;
+}
+
+.famaly-food {
+    background-color: rgb(227, 220, 211);
+    padding: 30px;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.famaly-shelter {
+    background-color: rgb(189, 229, 215);
+    padding: 30px;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.child-education {
+    background-color: darksalmon;
+    padding: 30px;
+    border-radius: 5%;
+    margin: 10px;
+}
+
+.plan-rulse {
+    margin: 2%;
+    font-size: 30px;
+}
+
+.donation-deped {
+    display: flex;
+    padding: 5%;
+    margin: 10px;
+}
+
+.half-width {
+    width: 50%;
+    font-size: 30px;
+    padding: 5px;
+}
+
+.donation-buttom {
+    display: flex;
+    margin: 10px;
+}
+
+.donation-2 {
+    width: 50%;
+    padding: 5px;
+}
+
+.donation-3 {
+    width: 50%;
+    padding: 15px;
+    font-size: 30px;
+}
+
+.update-section {
+    text-align: center;
+}
+
+.get-update {
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    font: 700;
+    color: white;
+    background-color: black;
+    margin: 0%;
+
+}
